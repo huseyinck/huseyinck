@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi! And welcome to my github. 👋
 
-<!--
-**huseyinck/huseyinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Hüseyin Çetinkaya. I live in İstanbul/Turkey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hüseyin Çetinkaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinck&show_icons=true)
+
+I'm working as a Developer(https://huseyincetinkaya.com/)
+
+## Know / Using 🧠
+
+<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg"></a></code>
+
+## Contact Me 📫
+
+You can find and get touch with me on these accounts! </br>
+Discord: Hüseyin#1094 </br>
+Mail: huseyincknet@gmail.com </br>
+[![Linkedin Badge](https://img.shields.io/badge/huseyincetinkaya-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/h%C3%BCseyin-%C3%A7etinkaya-87ba8a170/)
