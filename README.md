@@ -9,7 +9,6 @@ I'm working as a Developer(https://huseyincetinkaya.com/)
 
 ## Know / Using 🧠
 
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a></code>
